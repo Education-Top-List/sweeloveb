@@ -1,0 +1,2 @@
+2020-02-03T14:59:15+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 32768 bytes) in /var/www/html/sweetlovebox/wp-admin/includes/ajax-actions.php on line 1576
+
